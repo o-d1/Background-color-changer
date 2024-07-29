@@ -1,1 +1,8 @@
-
+button {
+    margin: 50vh auto;
+    font-size: 2rem;
+    display: flex;
+}
+body {
+    margin: auto;
+}
